@@ -1,0 +1,21 @@
+﻿id_empleado,nombre,apellidos,edad,documento,codigo,cargo
+1,Alejandro,Mendoza Torres,55,10204563,100452,Gerente
+2,Beatriz,Restrepo Gómez,38,10356894,200158,Lider Regional
+3,Carlos,Zuleta Montoya,39,10174523,200159,Lider Regional
+4,Diana,Hoyos Sanín,34,11524687,300741,Lider Seccional
+5,Eduardo,Benítez Jaramillo,46,10375962,300742,Lider Seccional
+6,Fernando,Córdoba Pardo,32,10452369,400512,Administrador
+7,Gabriela,Morales Cadavid,31,11284569,400513,Administrador
+8,Hugo,Castro Bermúdez,40,10154632,400514,Administrador
+9,Isabel,Vélez Ochoa,28,10369854,500210,Empleado
+10,Jorge,Suárez Henao,27,10245698,500211,Empleado
+11,Karen,Pineda Arango,36,10854236,500212,Empleado
+12,Luis,Quintero Lopez,25,11436521,500213,Empleado
+13,Marta,Beltrán Posada,25,10102458,500214,Empleado
+14,Néstor,Delgado Londoño,24,10536984,500215,Empleado
+15,Olga,Espinosa Castaño,24,11934562,500216,Empleado
+16,Pablo,Giraldo Agudelo,38,10224587,500217,Empleado
+17,Quintín,Marín Villegas,23,10475963,500218,Empleado
+18,Rocío,Vargas Bedoya,30,11104589,500219,Empleado
+19,Sergio,Palacios Holguín,22,10164523,500220,Empleado
+20,Tatiana,Rincón Murillo,21,10394856,500221,Empleado
